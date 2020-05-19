@@ -24,9 +24,12 @@ public class CommonFriends {
         @Override
         protected void map(LongWritable k1, Text v1, Context context) throws IOException, InterruptedException {
             line_split = v1.toString().split("\t");
+            //对此人的好友进行排序
             Arrays.sort(line_split, 1, line_split.length);
 
             v2.set(line_split[0]);
+            //将此人好友两两相匹配，表示某两人的共同好友是此人
+            //由于此人好友已经排好序，所以例如Lucy-Tom，是不会出现Tom-Lucy这种相同两人却不同键的情况
             for (int i = 1; i < line_split.length; i ++) {
                 for (int j = i + 1; j <line_split.length; j ++) {
                     k2.set(line_split[i] + "-" + line_split[j]);
