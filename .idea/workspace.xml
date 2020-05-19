@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc378a5a-43f0-448e-ab8c-35c9429ce47f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="JDK-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1btCczgjOrNAzLuBaAHKE9piYiV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot_test" />
+    <property name="settings.editor.selected.configurable" value="bigdataide_conn_settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nativeio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CommonFriends">
+    <configuration name="CommonFriends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hut.hdfs.mapreduce.commonfriends.CommonFriends" />
+      <module name="hadoop_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlowCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hut.hdfs.mapreduce.flow.FlowCount" />
+      <module name="hadoop_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlowDecreasingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hut.hdfs.mapreduce.flow.FlowDecreasingSort" />
+      <module name="hadoop_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hut.hdfs.mapreduce.word.WordCount" />
+      <module name="hadoop_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordDecreasingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hut.hdfs.mapreduce.word.WordDecreasingSort" />
+      <module name="hadoop_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hdfs_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.hut.hdfs_demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CommonFriends" />
+        <item itemvalue="Application.FlowDecreasingSort" />
+        <item itemvalue="Application.FlowCount" />
+        <item itemvalue="Application.WordDecreasingSort" />
+        <item itemvalue="Application.WordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Big_Data_Tools_Connections" timestamp="1589629532460">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Big_Data_Tools_Connections/0.0.1280.680@0.0.1280.680" timestamp="1589629532460" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1589715453429">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1589715453429" />
+    <state x="234" y="269" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589790811604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="234" y="269" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1589790811604" />
+    <state width="508" height="459" key="DebuggerActiveHint" timestamp="1589712321807">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="508" height="459" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1589712321807" />
+    <state x="740" y="102" key="FileChooserDialogImpl" timestamp="1589714655542">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="740" y="102" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589714655542" />
+    <state width="1237" height="253" key="GridCell.Tab.0.bottom" timestamp="1589802830459">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="253" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589802830459" />
+    <state width="1237" height="253" key="GridCell.Tab.0.center" timestamp="1589802830443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="253" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589802830443" />
+    <state width="1237" height="253" key="GridCell.Tab.0.left" timestamp="1589802830443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="253" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589802830443" />
+    <state width="1237" height="253" key="GridCell.Tab.0.right" timestamp="1589802830443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="253" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589802830443" />
+    <state width="1237" height="234" key="GridCell.Tab.1.bottom" timestamp="1589716291630">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="234" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589716291630" />
+    <state width="1237" height="234" key="GridCell.Tab.1.center" timestamp="1589716291630">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="234" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1589716291630" />
+    <state width="1237" height="234" key="GridCell.Tab.1.left" timestamp="1589716291630">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="234" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1589716291630" />
+    <state width="1237" height="234" key="GridCell.Tab.1.right" timestamp="1589716291630">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="234" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1589716291630" />
+    <state x="342" y="0" key="Maven.ArtifactSearchDialog" timestamp="1589443111223">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="342" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1589443111223" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1589629598493">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589629598493" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1589788043927">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589788043927" />
+    <state x="345" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1589715816807">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="345" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1589715816807" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1589789535522">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589789535522" />
+  </component>
+</project>
