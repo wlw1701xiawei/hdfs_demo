@@ -24,9 +24,11 @@ public class FamilyRelationship {
         protected void map(LongWritable k1, Text v1, Context context) throws IOException, InterruptedException {
             line_split = v1.toString().split("\t");
             k2.set(line_split[0]);
+            //"+"表示此人是k2的子女
             v2.set("+" + line_split[1]);
             context.write(k2, v2);
             k2.set(line_split[1]);
+            //"-"表示此人是k2的父母
             v2.set("-" + line_split[0]);
             context.write(k2, v2);
         }
@@ -77,7 +79,8 @@ public class FamilyRelationship {
                 job.setOutputKeyClass(Text.class);
                 job.setOutputValueClass(Text.class);
 
-                FileInputFormat.setInputPaths(job, new Path("C:\\Users\\Abuilex\\Documents\\mapreduce\\家庭关系问题\\input"));
+                FileInputFormat.setInputPaths(job, 
+                        new Path("C:\\Users\\Abuilex\\Documents\\mapreduce\\家庭关系问题\\input"));
                 Path output = new Path("C:\\Users\\Abuilex\\Documents\\mapreduce\\家庭关系问题\\output");
                 FileSystem fs = FileSystem.get(conf);
                 if (fs.exists(output)) {
