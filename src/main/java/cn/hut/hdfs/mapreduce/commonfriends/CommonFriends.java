@@ -31,7 +31,7 @@ public class CommonFriends {
             //将此人好友两两相匹配，表示某两人的共同好友是此人
             //由于此人好友已经排好序，所以例如Lucy-Tom，是不会出现Tom-Lucy这种相同两人却不同键的情况
             for (int i = 1; i < line_split.length; i ++) {
-                for (int j = i + 1; j <line_split.length; j ++) {
+                for (int j = i + 1; j < line_split.length; j ++) {
                     k2.set(line_split[i] + "-" + line_split[j]);
                     context.write(k2, v2);
                 }
